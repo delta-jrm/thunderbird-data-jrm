@@ -1,0 +1,13 @@
+{
+    "firstName": "Stephen",
+    "lastName": "Strange",
+    "preferredName": "Doctor Strange",
+    "email": "StevenStrange@avengers.org",
+    "phoneNumber": "(888) 888-8888",
+    "city": "New York City",
+    "state": "NY",
+    "zip": "10001",
+    "lat": "40.729141",
+    "lng": "-74.000618",
+    "favoriteHobby": "Reading, Protecting this Reality"
+}
